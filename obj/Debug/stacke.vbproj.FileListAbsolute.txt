@@ -1,0 +1,10 @@
+c:\users\ameer\documents\visual studio 2013\Projects\stacke\bin\Debug\stacke.exe.config
+c:\users\ameer\documents\visual studio 2013\Projects\stacke\bin\Debug\stacke.exe
+c:\users\ameer\documents\visual studio 2013\Projects\stacke\bin\Debug\stacke.pdb
+c:\users\ameer\documents\visual studio 2013\Projects\stacke\bin\Debug\stacke.xml
+c:\users\ameer\documents\visual studio 2013\Projects\stacke\obj\Debug\stacke.Form1.resources
+c:\users\ameer\documents\visual studio 2013\Projects\stacke\obj\Debug\stacke.Resources.resources
+c:\users\ameer\documents\visual studio 2013\Projects\stacke\obj\Debug\stacke.vbproj.GenerateResource.Cache
+c:\users\ameer\documents\visual studio 2013\Projects\stacke\obj\Debug\stacke.exe
+c:\users\ameer\documents\visual studio 2013\Projects\stacke\obj\Debug\stacke.xml
+c:\users\ameer\documents\visual studio 2013\Projects\stacke\obj\Debug\stacke.pdb
